@@ -1,0 +1,13 @@
+voucher,brand,brand_from,country_from,date,guarantee,time_guarantee,product_id
+1,Innisfree,Hàn Quốc,Hàn Quốc,3 năm kể từ ngày sản xuất,Không,,51
+,Uriage,Pháp,Pháp,3 năm,Không,,52
+1,Innisfree,Hàn Quốc,Hàn Quốc,3 năm kể từ ngày sản xuất,Không,,53
+6,OHUI,Hàn Quốc,Hàn Quốc,3 năm kể từ ngày sản xuất,Không,,54
+,SIMPLE,Ba Lan,Ba Lan,36 Tháng kể từ ngày SX,Không,,55
+,Project V,France,Thụy Sỹ,3 năm kể từ ngày sản xuất,Không,,56
+6,OHUI,Hàn Quốc,Hàn Quốc,2026,Không,,57
+6,the history of whoo,Hàn Quốc,Hàn Quốc,2026,Không,,58
+6,SU:M37,Hàn Quốc,Hàn Quốc,2026,Không,,59
+4,SokaMocka,Nhật Bản,Nhật Bản,36 tháng kể từ ngày sx,Không,,60
+2,Laneige,Hàn Quốc,Hàn Quốc,3 năm,Không,,61
+,Pond's,Mỹ,Indonesia,36 tháng kể từ ngày sản xuất,,,62

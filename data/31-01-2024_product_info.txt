@@ -1,0 +1,51 @@
+voucher,brand,brand_from,country_from,date,guarantee,time_guarantee,product_id
+1,SIMPLE,Ba Lan,Ba Lan,36 Tháng kể từ ngày SX,Không,,0
+1,SIMPLE,,Ba Lan,3 năm kể từ ngày sản xuất,Không,,1
+4,ALBA,Việt Nam,Việt Nam,3 năm,Có,3,2
+1,SIMPLE,Ba Lan,Ba Lan,36 Tháng kể từ ngày SX,Không,,3
+,ANESSA,Nhật Bản,Nhật Bản,3 năm,Không,,4
+,Luvis,Việt Nam,Việt Nam,3 năm,Không,,5
+3,COMPLIMENT,Nga,Nga,2025,Không,,6
+,Olay,Mỹ,Thái Lan,3 năm từ ngày sản xuất.,Không,,7
+,OBAGI,Mỹ,Mỹ,3 năm kể từ ngày sản xuất,Có,6,8
+,OBAGI,Mỹ,Mỹ,3 năm kể từ ngày sản xuất,Có,6,9
+1,SIMPLE,Ba Lan,Ba Lan,3 năm kể từ ngày sản xuất,Không,,10
+3,Pond's,Mỹ,Indonesia,36 tháng kể từ ngày sản xuất,,,11
+3,Pond's,Thái Lan,Thái Lan,36 Tháng kể từ ngày SX,Không,,12
+3,Laneige,Hàn Quốc,Hàn Quốc,3 năm từ ngày sản xuất,Không,,13
+3,Pond's,Mỹ,Thái Lan,36 Tháng kể từ ngày SX,Không,,14
+,Kosé,Nhật Bản,Nhật Bản,5 năm kể từ ngày sản xuất,Có,7,15
+,dermalogica,,Anh,36 tháng kể từ ngày sản xuất,Không,,16
+2,CeraVe,USA,Pháp/ Mỹ,3 năm,Không,,17
+2,CeraVe,USA,Pháp/ Mỹ,3 năm,Không,,18
+,Dabo,Hàn Quốc,Hàn Quốc,3 năm,Không,,19
+,,,,3 năm kể từ ngày sản xuất,,,20
+3,Laneige,Hàn Quốc,Hàn Quốc,3 năm từ ngày sản xuất,Không,,21
+3,Laneige,Hàn Quốc,Hàn Quốc,3 năm từ ngày sản xuất,Không,,22
+3,Laneige,Hàn Quốc,Hàn Quốc,3 năm kể từ ngày sản xuất,Không,,23
+3,Laneige,Hàn Quốc,Hàn Quốc,3 năm kể từ ngày sản xuất,Không,,24
+,Lebelage,,Hàn Quốc,24 tháng,Không,,25
+,Lebelage,,Hàn Quốc,24 tháng,Không,,26
+,Lebelage,,Hàn Quốc,24 tháng,Không,,27
+,Lebelage,,Hàn Quốc,24 tháng,Không,,28
+2,CeraVe,USA,USA,3 năm,Không,,29
+,OBAGI,Thụy Sỹ,Thụy Sỹ,36 tháng,Không,,30
+,OBAGI,Thụy Sỹ,Thụy Sỹ,36 tháng,Không,,31
+,OBAGI,Thụy Sỹ,Thụy Sỹ,36 tháng,Không,,32
+,OBAGI,Thụy Sỹ,Thụy Sỹ,36 tháng,Không,,33
+,Zo Skin Health,Mỹ,Mỹ,36 tháng,Không,,34
+,Zo Skin Health,Mỹ,Mỹ,36 tháng,Không,,35
+,Zo Skin Health,Mỹ,Mỹ,36 tháng,Không,,36
+,Zo Skin Health,Mỹ,Mỹ,36 tháng,Không,,37
+,Zo Skin Health,Mỹ,Mỹ,36 tháng,Không,,38
+,Zo Skin Health,Mỹ,Mỹ,36 tháng,Không,,39
+,Zo Skin Health,Mỹ,Mỹ,36 tháng,Không,,40
+,OBAGI,Mỹ,Mỹ,36 tháng,Không,,45
+,OBAGI,Mỹ,Mỹ,36 tháng,Không,,41
+,OBAGI,Mỹ,Mỹ,36 tháng,Không,,42
+,OBAGI,Mỹ,Mỹ,36 tháng,Không,,43
+,OBAGI,Mỹ,Mỹ,36 tháng,Không,,44
+,OBAGI,Mỹ,Mỹ,36 tháng,Không,,46
+,OBAGI,Myanmar,Mỹ,36 tháng,Không,,47
+,Zo Skin Health,Mỹ,Mỹ,36 tháng,Không,,48
+,OBAGI,Mỹ,Mỹ,36 tháng,Không,,49

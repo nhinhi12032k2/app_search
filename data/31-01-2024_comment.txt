@@ -1,0 +1,253 @@
+Customer_ID,product_id,comment,time_use,cmt_id
+1,0," tiki giao hàng siêu nhanh.đóng gói sp kỹ nhưng tới tay mình thì cái thùng nó méo mó thấy ớ.n.dùng xong thấy da mềm mịn thật, nhưng mn có bị nhớt nhớt lúc rửa mặt giống mình k, phải rửa nước lại hơi lâu... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 3 giờ,1
+2,0,chất lương k bt như nào nhưng ms nhận hàng thì thấy hàng khá giống mua ở siêu thị.....,Đánh giá vào 2 năm trước Đã dùng 6 giờ,2
+3,0,"đóng gói hơi sơ sài. Mình dùng thử rồi cũng okela, ko có mùi.",Đánh giá vào 2 năm trước Đã dùng 1 ngày,3
+4,0," Sữa rửa mặt này rất dịu nhẹ, phù hợp cho mọi loại da, nhưng chỉ dừng ở bước làm sạch bình thường thôi. Nếu ở môi trường nhiều bụi thì cần thêm tẩy trang nữa.
+Giao hàng siêu nhanh dù mình đặt giao tiết... Xem thêm",Đánh giá vào 5 tháng trước Đã dùng 13 phút,4
+5,0,mua lần đầu dùng thử xem sao thấy quảng cáo dịu nhẹ hi vọng hợp với da của mình,Đánh giá vào 2 năm trước Đã dùng 4 phút,5
+6,0,tốt dành cho mấy bạn da mụn,Đánh giá vào 2 năm trước Đã dùng 5 ngày,6
+7,0, Mình đang dùng sữa rửa mặt nhà centaphil nhưng thấy e này đc nhắc đến khá nhiều về độ lành tính dịu nhẹ nên mình dùng thử. Khá bất ngờ khi e này ko có mùi hương sau khi rửa xong cũng không có hiện tượng... Xem thêm,Đánh giá vào 1 năm trước Đã dùng 3 giờ,7
+8,0,"Srm Simple dùng rất thích, da mình không kén srm lắm. Hôm mình đặt 9.9 còn được tặng thêm chai toner khá to. Chất lượng sản phẩm toẹt dời luôn ạ. Vote 5 * plus cho tiki",Đánh giá vào 1 năm trước Đã dùng 5 giờ,8
+9,0,Giao hàng nhanh. Đóng gói cẩn thận. Mình dùng mẫu cũ lâu rồi. Rất ổn cho da. Mẫu mới này không biết sao. Hi vọng chất lượng như nhau. Xin cảm ơn shop.,Đánh giá vào 1 năm trước Đã dùng 9 phút,9
+10,0,"bọc hàng hơi sơ sài. mình sợ giao ra miền Bắc nó bọp ra mất, may k sao.",Đánh giá vào 2 năm trước Đã dùng 2 ngày,10
+11,0,"Giao hàng cực nhanh, mình đặt chưa đầy 24h đã nhận được hàng (mình ở HCM).
+Set quà tặng kèm rất xinh xắn và hữu ích",Đánh giá vào 2 năm trước Đã dùng 1 ngày,11
+12,0,"2 ngày đã nhận được hàng , chưa dùng nên chưa biết thế nào .",Đánh giá vào 2 năm trước Đã dùng 1 giờ,12
+13,0,"sản phẩm gói cẩn thận, không vỡ
+chất lượng tốt, mềm mại,phù hợp với da mặt của mình
+cảm ơn tiki nhé",Đánh giá vào 2 năm trước Đã dùng 21 phút,13
+14,0,Không gây kích ứng. Thích hợp cho da nhạy cảm. Tuy nhiên cái chai bị lủng 1 lổ nhỏ nên nhà cung cấp cần lưu ý trong việc đóng gối.,Đánh giá vào 1 tháng trước Đã dùng 8 ngày,14
+15,0," Đơn đầu tiên mua tại Tiki, rất hài lòng, đặt hôm trước hôm sau giao luôn, mua lần đầu nên giá cũng đc giảm kha khá. Còn chất lượng thì hoàn toàn tin tưởng, mong rằng sẽ có nhiều trải nghiệm tốt với Tiki... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 5 giờ,15
+16,0,"Chưa dùng nhưng mà nhìn đóng gói cẩn thận, bịt nắp miệng các thứ. Chẽck mã vạch có ra",Đánh giá vào 2 năm trước Đã dùng 6 ngày,16
+17,0,"ok, đặt hôm trước. Hôm sau đã nhận được hàng. Sản phẩm tốt, được khuyến mãi ok",Đánh giá vào 2 năm trước Đã dùng 12 phút,17
+18,0,Làm sạch da mặt không gây kích ứng da,Đánh giá vào 1 năm trước Đã dùng 6 giờ,18
+19,0,"Giao hàng nhanh ạ, mình đặt tối hôm qua nay đã nhận hàng. Sữa rửa mặt thì dịu nhẹ nên không lo bị kích ứng gì cả",Đánh giá vào 2 năm trước Đã dùng 1 giờ,19
+20,0,ok,Đánh giá vào 2 năm trước Đã dùng 1 tháng,20
+21,1,Vì thấy quảng cáo hàng mua 2 sua rua mặt tạng mà khi giao ko có,Đánh giá vào 1 tháng trước Đã dùng 1 ngày,21
+22,1,,Đánh giá vào 12 ngày trước Đã dùng 6 giờ,22
+23,1,,Đánh giá vào 13 ngày trước Đã dùng 4 giờ,23
+24,1,,Đánh giá vào 2 tháng trước Đã dùng 5 ngày,24
+25,2,ok thank you. ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️,"Dung tích: 150ml
+Đánh giá vào 2 năm trước Đã dùng 6 giờ",25
+26,2,Sp tốt . Mn nên mua. ❤️❤️❤️,"Dung tích: 150ml
+Đánh giá vào 2 năm trước Đã dùng 1 ngày",26
+27,2,Sản phảm ok,"Dung tích: 150ml
+Đánh giá vào 2 năm trước Đã dùng 1 tháng",27
+28,2,,"Dung tích: 150ml
+Đánh giá vào 2 năm trước Đã dùng 1 giờ",28
+29,2,.,"Dung tích: 150ml
+Đánh giá vào 2 năm trước Đã dùng 13 ngày",29
+30,3," Hmm, giao hàng siêu nhanh. Mới đặt sáng hqua mà trưa hay đã nhận được. Sp có nhãn mác đầy đủ mà tiki đóng gõi kĩ lắmmm, cho hẳn cái màng bọc thực phẩm luôn ಥ⁠‿⁠ಥ
+Nói về thời chứ srm không bị tràn đauu... Xem thêm",Đánh giá vào 8 tháng trước Đã dùng 1 giờ,30
+31,3," Uii đây là lần đầu mua trên tiki nên ko biết. Quay nguyên clip khui hàng rồi mà trên này ko có chỗ đăng video :<
+Giao hàng nhanh, hộp ở ngoài khá méo mó nhưng mà bên trong có mấy mảnh túi nilong với màng... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 1 giờ,31
+32,3,"Sạch,rẻ ,dễ chịu,mua 3 sp được nhận 4 phần quà ,vẫn luôn mua hàng của Tiki,đương nhiên không tránh khỏi sai sót.",Đánh giá vào 2 năm trước Đã dùng 3 giờ,32
+33,3,"Mình mới xài xog , cảm thấy mặt mình đỡ sần nhiều lắm , đã vậy còn mịn ko bị khô , giá lại hợp lí cho hs-sv , hàng giao nhanh , sản phẩm ko làm mình thất vọng , Wá Đảk🥰",Đánh giá vào 2 năm trước Đã dùng 4 giờ,33
+34,3," Sản phẩm OK
+Nhưng hình như khâu đóng gói bên tiki trading khá sơ sài , sản phẩm về tay dễ bị móp méo, mình mua 2 lần đều như vậy
+Có điều nhờ thế cũng hạn chế được một lượng lớn plastic
+mong là bên shop... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 1 ngày,34
+35,3,"Chưa dùng. Mẫu cũ dùng sạch và không kích ứng da, rất thích. Giá sale chưa đến 100k.",Đánh giá vào 1 năm trước Đã dùng 1 ngày,35
+36,3,giao hàng nhanh,Đánh giá vào 2 năm trước Đã dùng 1 ngày,36
+37,3," Kết cấu dạng gel màu trắng đục như sữa, tạo bọt nhiều và mịn, rửa xong không thấy bị khô hay căng da mặt rất thích. Ai dùng mỗi kem chống nắng thôi thì em này làm sạch rất tốt nha, còn trang điểm thì... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 2 tháng,37
+38,3,"Sản phẩm tốt, dùng nhẹ nhàng k bị khô da. mình mua 3 lọ 1 lúc dùng dần. Sẽ ủng hộ shop lâu dài. mua sp lại đc kèm quà tặng. iu quá",Đánh giá vào 2 năm trước Đã dùng 2 ngày,38
+39,3,tốt,Đánh giá vào 2 năm trước Đã dùng 5 ngày,39
+40,3,"Đóng gói kĩ, đệm bên trong đầy đủ tránh làm hư ảo luôn, cho 10 điểm. Chưa sử dụng nên chưa biết hiệu quả",Đánh giá vào 1 năm trước Đã dùng 5 phút,40
+41,3,"Giao hàng nhanh, hàng sử dụng 2 lần. Rất thích",Đánh giá vào 1 năm trước Đã dùng 1 giờ,41
+42,3,Sản phẩm xài thấy khá tốt ko bọt nhiều rửa mặt khá sạch giao hàng nhanh chóng nên cho ⭐️⭐️⭐️⭐️⭐️,Đánh giá vào 2 năm trước Đã dùng 2 tháng,42
+43,3,"Sữa rửa mặt rất phù hợp với da khô và nhạy cảm của mình. Yên tâm nhất là thành phần lành tính của em nó.Rửa mặt xong cảm giác nhẹ nhàng, dễ chịu lắm",Đánh giá vào 2 năm trước Đã dùng 1 ngày,43
+44,3,"Chất lượng sản phẩm tốt, đóng gói cẩn thận và tỉ mỉ",Đánh giá vào 1 năm trước Đã dùng 4 ngày,44
+45,3,"135/13/16 kp2, đường Hoàng Diệu, phường Xuân Thanh , Thành phố Long Khánh.",Đánh giá vào 2 năm trước Đã dùng 2 ngày,45
+46,3,"Hàng giao nhanh, đóng gói cẩn thận. Sữa rửa mặt chính hãng, còn nguyên seal.",Đánh giá vào 5 tháng trước Đã dùng 11 ngày,46
+47,3,"Kình dùng cảm thấy hơi dính, nhưng không bị khô mặt hay mụn, cơ bản là hợp ạ",Đánh giá vào 2 năm trước Đã dùng 8 ngày,47
+48,3,"Sản phẩm đúng với mô tả, mình chưa sử dụng nên chưa biết hiệu quả như nào",Đánh giá vào 2 năm trước Đã dùng 10 giờ,48
+49,3,"Rất OK, cảm ơn shop",Đánh giá vào 10 tháng trước Đã dùng 1 giờ,49
+50,4,"Kcn yêu thích nhất của mình, khá thíh tại texture rất ổn, kiềm dầu tốt, giữ ẩm với cả nếu các bước skincare trước đó đầy đủ, cấp ẩm tôn thì xài anessa sẽ rất căng da và ẩm mịn nha, đỉnh lắm",Đánh giá vào 3 năm trước Đã dùng 2 tháng,50
+51,4,"kem cn tốt. Thấy cũng k kiềm dầu lắm, nhưng được cái bôi lên thấm nhanh không bết, nói chung ổn. Tiki giao hàng nhanh",Đánh giá vào 3 năm trước Đã dùng 12 ngày,51
+52,4,"sảm phẩm kiềm dầu cực tốt, nâng tông nhẹ, mình da dầu đã dùng qua rất nhiều loại kcn nhưng assnea mới đúng là chân ái của mình.bôi từ sáng đến chiều vẫn khoi thoáng,",Đánh giá vào 3 năm trước Đã dùng 10 giờ,52
+53,4,"Da mình bị mụn và nhờn dùng anessa thấy hợp, vừa túi tiền mà hay có chương trình KM, cảm ơn Tiki",Đánh giá vào 3 năm trước Đã dùng 1 ngày,53
+54,4,"Ok kcn chính hãng xài tốt, khô ngay trên da, nâng tông nhẹ, hợp với da dầu vs kiềm dầu tốt",Đánh giá vào 3 năm trước Đã dùng 2 tháng,54
+55,4,"Sản phẩm ok lắm ạ!, giao hàng cũng nhanh nữa, tiki trading làm ăn ổn lắm ạ...........",Đánh giá vào 3 năm trước Đã dùng 1 tháng,55
+56,4,"thấm nhanh vào da, thoáng, nhẹ, kềm dầu tốt nên hợp cho da dầu và da hỗn hợp",Đánh giá vào 3 năm trước Đã dùng 5 ngày,56
+57,4,Lúc đầu cảm giác hơi nhờn rít và bí. Sau một lúc cảm giác đó không còn. Shop ơi làm sao để khỏi cay mắt,Đánh giá vào 3 năm trước Đã dùng 1 ngày,57
+58,4,đúng chuẩn chất lượng . luôn tin dùng anessa . xài không hề lên mụn .,Đánh giá vào 3 năm trước Đã dùng 1 tháng,58
+59,4,"Hàng đóng gói kỹ, xài rất OK. Giá mềm. Sẽ tiếp tục ủng hộ shop.",Đánh giá vào 3 năm trước Đã dùng 11 ngày,59
+60,4,"Sp có tem chống hàng giả, chưa dùng nên chưa biết tốt không . Chỉ thấy sp đắt quá, 2 chai bé tí (tổng cộng 80ml) mà 625k",Đánh giá vào 3 năm trước Đã dùng 1 ngày,60
+61,4,"Chai thứ n rồi ạ, mua combo tiết kiệm được khá khá. Đã thử qua các lọai chống nắng khác nhưng ko ưng bằng",Đánh giá vào 3 năm trước Đã dùng 10 ngày,61
+62,4,"Thay đổi nhiều loại kcn rồi vẫn quay về lại với e này. Dùng cực thích, sau khi bôi, da khô thoáng, k bị bóng dầu. Giá tốt.",Đánh giá vào 3 năm trước Đã dùng 3 ngày,62
+63,4,"Giao hàng nhanh chóng, đóng gói cẩn thận",Đánh giá vào 3 năm trước Đã dùng 5 ngày,63
+64,4,Sản phẩm chính hãng và mới sản xuất tháng 5/20. Cám ơn shop!,Đánh giá vào 3 năm trước Đã dùng 8 giờ,64
+65,4,Sản phẩm đóng gói chắc chắn,Đánh giá vào 3 năm trước Đã dùng 2 giờ,65
+66,4,Mới order hôm qua hôm nay giao hàng,Đánh giá vào 3 năm trước Đã dùng 1 giờ,66
+67,4,"Hàng chính hãng... date xa, good",Đánh giá vào 3 năm trước Đã dùng 6 giờ,67
+68,4,Ok ạ,Đánh giá vào 3 năm trước Đã dùng 3 tháng,68
+69,4,Hàng chính hãng  ma  vạch đầy đủ  giao hàng nhanh  sẽ ủng hộ,Đánh giá vào 3 năm trước Đã dùng 2 giờ,69
+70,10,"Lần đầu đặt thử đơn hàng trên tiki mà thấy hài lòng quá chừng, 100% là hàng real rồi, gói hàng chắc chắn. Shipper dễ thương. Giao cực nhanh, đặt hôm qua hôm nay đã giao.",Đánh giá vào 2 năm trước Đã dùng 8 phút,70
+71,10,"Sp ổn
+Shipper thân thiện",Đánh giá vào 2 năm trước Đã dùng 1 ngày,71
+72,10,"Có các hạt li ti nhưng mềm tròn ko cứng, ma sát lên da ko gây rát , hạt mềm hơn các loại khác nhé. Hoàn toàn không mùi, gel trong đặc, rửa xong rất sạch nhưng ko hề khô da.",Đánh giá vào 1 năm trước Đã dùng 1 tháng,72
+73,10," sữa rửa mặt dụi nhẹ, không kích ứng, rửa xong hơi thấy khô một chút, srm có các hạt nhỏ tuy nhiên khi rửa thì ko thấy có cảm giác chà xát trên da. Da mình là da khô nhạy cảm vào mùa đông và nhảy cảm dầu... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 2 tháng,73
+74,10,"Như ở phần gt sản phẩm thì sữa rửa mặt này giúp kiềm dầu nên khi rửa xong mặt sẽ khá khô, mấy đứa mặt cả chậu dầu như mình thì thấy ok lắm nha.",Đánh giá vào 1 năm trước Đã dùng 2 giờ,74
+75,10,"Giá cao nhưng thấy yên tâm hơn, dạo này sopee mall bán hàng fakequá trời nên cạch lun",Đánh giá vào 13 ngày trước Đã dùng 3 ngày,75
+76,10,"SRM có hạt nhưng rất nhỏ,có mùi lạ ko thơm hơi chua nhẹ,ko tạo bọt nhìu nên dùng hơi hao xíu nha,lần sau mình sẽ mua lại nhưng là Srm dòng khác của Simple",Đánh giá vào 2 năm trước Đã dùng 1 ngày,76
+77,10,"Lần đầu dùng sản phẩm của simple cảm thấy rất tốt 
+Giá tiền phù hợp với học sinh
+Dùng xong da mặt rất mịn và mát 
+Cũng có kìm dầu nhưng được 1 phần nào đó thôi",Đánh giá vào 2 năm trước Đã dùng 2 ngày,77
+78,10,tiki làm việc cực kì nhanh chóng,Đánh giá vào 1 năm trước Đã dùng 14 ngày,78
+79,10,"Sử dụng rất tốt, không gây kích ứng da, rất đáng đồng tiền bát gạo để mua nha.",Đánh giá vào 1 năm trước Đã dùng 3 giờ,79
+80,10,"Da mặt của mình là da thường, đeo khẩu trang rồi ăn uống cay nóng nên da có lên ít mụn,mình đã sử dụng đc 4 tháng ko đều nhưng hiệu quả thật sự, giảm mụn rõ luôn.",Đánh giá vào 2 năm trước Đã dùng 1 tháng,80
+81,10,Chưa dùng thử nên chưa biết nhưng nếu có hiệu quả thì sẽ quay lại mua nhiều nhiều ạ😘 có điều đóng gói chưa chắc chắn cho lắm cần cải thiện về mảng đóng gói,Đánh giá vào 2 năm trước Đã dùng 13 phút,81
+82,10,Đặt hôm qua nay đã giao rồi ạ. Sữa rữa mặt dịu nhẹ mùi dễ chịu ko nồng dùng rất mịn ạ. Mọi người nên thử,Đánh giá vào 2 năm trước Đã dùng 2 giờ,82
+83,10,"Giao hàng ko nhanh lắm, dùng bình thường ở mức độ ổn, giá thành hợp lý với hssv",Đánh giá vào 2 năm trước Đã dùng 10 ngày,83
+84,10,"tùy da nhưng đối với bản thân mình sử dụng thấy khá hợp, sản phẩm lành tính, khả năng làm sạch ổn không gây căng da. So với mức giá thì quá chất lượng",Đánh giá vào 2 năm trước Đã dùng 8 ngày,84
+85,10,Sài OK nha. Thanks shop,Đánh giá vào 7 tháng trước Đã dùng 2 tháng,85
+86,10,"Da mình là loại da hỗn hợp thiên dầu rất dễ bị nổi mụn. Khi sử dụng sản phẩm này thấy khá là hợp, rửa sạch dịu nhẹ, ko làm khô da.",Đánh giá vào 2 năm trước Đã dùng 7 ngày,86
+87,10,"Sản phẩm khá đặc, dạng keo trong có hạn siêu nhỏ, khi rữa da như được cấp nước và khô thoáng. Do có hạt nên hạn chế trà sát mạnh.",Đánh giá vào 2 năm trước Đã dùng 9 ngày,87
+88,10,"Giao nhanh, sáng đặt chiều nhận hàng, lần đầu dùng khá thích, không bị khô da",Đánh giá vào 1 năm trước Đã dùng 8 giờ,88
+89,10,Hai srm dịu nhẹ hợp vs da nhạy cảm or da thiên dầu,Đánh giá vào 5 tháng trước Đã dùng 1 năm,89
+90,11," Dịch COVID-19 đang diễn biến rất phức tạp, khó lường. Mỗi người dân cần phải cảnh giác cao độ; chấp hành nghiêm quy định về giãn cách; tuyệt đối tuân thủ và thực hiện đầy đủ các biện pháp 5k, các hướng... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 11 ngày,90
+91,11,"hàng chính hãng,mới toanh,date xa còn đc tặng sữa tắm,yêu tiki lắm,mong có mã freeship để đc shopping ở tiki,nơi uy tín số 1,ko đâu bằng,hình mang tc nhận xu ạ,sp đẹp nên lo cất rồi sợ mất ấy hihi",Đánh giá vào 3 năm trước Đã dùng 4 giờ,91
+92,11," Hộp to, đúng hai loại ngày và đêm. Giao hàng siêu nhanh.
+Sau khi mua ở các sàn khác (giao hàng mất cả tuần, có khi quên cả mình đã đặt hàng) thì vẫn quay lại Tiki. Món này mình đặt trưa, chiều đã giao... Xem thêm",Đánh giá vào 3 tháng trước Đã dùng 26 phút,92
+93,11,"Shop chuẩn bị hàng siêu nhanh, giao hàng cũng nhanh. Đặt chiều hôm qua sáng nay đã nhận được rồi",Đánh giá vào 2 năm trước Đã dùng 1 giờ,93
+94,11,tuyệt vời và ok,Đánh giá vào 2 năm trước Đã dùng 1 ngày,94
+95,11,"Nhãn của cái ban đêm dán bị xéo nên cũng hơi quan ngại. 
+Tuy nhiên thì trộm vía vẫn chưa thấy có vấn đề sau khi sử dụng.",Đánh giá vào 8 tháng trước Đã dùng 1 ngày,95
+96,11,tiki giao hang nhanh . sản phẩm thì cũng ok . lần sau lại ghé mua tiếp.,Đánh giá vào 3 năm trước Đã dùng 1 ngày,96
+97,11,"Săn sale trên Tiki giá rẻ hơn ở siêu thị rất nhiều
+Giao hàng siêu nhanh
+Anh shipper Tiki cực dễ thương
+Trải nghiệm mua sắm ở Tiki vẫn là rất khác bọt",Đánh giá vào 1 năm trước Đã dùng 10 giờ,97
+98,11," Điểm cốt lõi trong hoạt động tiếp thị của Apple được giới chuyên môn đánh giá cao và ví chúng tương tự một ""củ hành tây"" vậy. Sỡ dĩ Apple được ví như vậy vì họ rất thuần thục trong việc kết hợp từng lớp... Xem thêm",Đánh giá vào 3 năm trước Đã dùng 12 ngày,98
+99,11," Mình đã dùng qua Pond's ban đêm loại 30g thấy ok nên lần này mua luôn cả đôi và thấy loại ban ngày dùng cũng tốt, chất kem hơi ánh kim, bôi lên da cảm giác như có phấn trong kem, không bị bóng dầu mà... Xem thêm",Đánh giá vào 4 năm trước Đã dùng 3 giờ,99
+100,11,❤️❣️❣️❤️❣️❣️❤️❣️❣️❤️❤️,Đánh giá vào 2 năm trước Đã dùng 1 ngày,100
+9,11,Giao hàng nhanh. Đóng gói cẩn thận. Mình dùng pons lâu rồi và loại khác chứ không phải loại này. Hi vọng dùng ok. Xin cảm ơn shop.,Đánh giá vào 1 năm trước Đã dùng 7 phút,101
+101,11,"Hàng ok,giao hàng nhanh,chưa dùng nên chưa biết có tốt ko.vẫn cho 5sao.",Đánh giá vào 1 tháng trước Đã dùng 1 giờ,102
+102,11,hạn sử dụng dài nhưng đóng gói sản phẩm bị móp méo. tuy nhiên sản phẩm k việc gì mong shop chú ý khâu đóng gói ạ. vì đc tặng 5 gói nhỏ nên cho shop 5* nha,Đánh giá vào 2 năm trước Đã dùng 2 phút,103
+103,11,"Sản phẩm đóng gói cẩn thận, mới, date xa
+Giao hàng nhanh, shipper thân thiện",Đánh giá vào 4 tháng trước Đã dùng 24 phút,104
+104,11,Mua hàng của tiki lúc nào cũng hài lòng hết á.về mọi mặt.còn sản phẫm pons này thì mình mới dùng Lần đầu tiên nên chưa biết thế nào.,Đánh giá vào 5 tháng trước Đã dùng 1 giờ,105
+105,11,Mô tả là hàng Indonesia. Hộp thì sản xuất Thái lan.. Hsd dài. Ok,Đánh giá vào 3 năm trước Đã dùng 11 giờ,106
+106,11,"Đóng gói đàng hoàng, chất kem tốt",Đánh giá vào 1 năm trước Đã dùng 1 ngày,107
+107,11,kem thơm mịn dùng thích lắm sẽ ủng hộ Shop tiếp 💯💯💯💯💯💯💯😌😌😌😌😌😛😌😃😃💓💓💓💓💓💯🤣👃😅☺️🤩😍😍💓,Đánh giá vào 2 năm trước Đã dùng 13 ngày,108
+108,11, mình vừa nhận được hàng. mình mới đặt tối hôm qua mà trưa nay đã nhận được rồi. tiki đóng hàng rất cẩn thận mình đã  mua 4 hộp. lúc đặt hàng cứ lo sợ giảm giá hàng cũ nhưng mà ngược lại gàng mới toanh... Xem thêm,Đánh giá vào 4 năm trước Đã dùng 1 giờ,109
+109,12,"Sản phẩm có chất lượng đúng như mô tả, đóng gói chắc chắn, rất đáng tiền, giao hàng nhanh.
+P/s: ko có thời gian chụp hình nên mình lấy đỡ hình trên mạng up",Đánh giá vào 2 năm trước Đã dùng 6 ngày,110
+110,12," Giao hàng nhanh, đóng gói rất cẩn thận. Về dùng 2 hnay rồi rất là hợp với da mình, mình mua nhìu loại mỹ phẩm cao cấp đắt tiền nhưng dùng ko đc, hy vọng dùng 1 thời gian sẽ cho hiệu quả trên da để còn... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 1 ngày,111
+111,12,"Siêu xịn luôn, đã rất lâu rồi không cùa pond’s lần này thấy set nhìn đẹp lại đữo tặng máy rửa mặt nữa nên mua thử. Ưng hơn mong đợi, set này được sản xuất ở Thái.",Đánh giá vào 2 năm trước Đã dùng 9 giờ,112
+112,12,"bao hàng đẹp, chắc chắn, chưa xài nên k bit chất lượng ra sao",Đánh giá vào 2 năm trước Đã dùng 2 giờ,113
+113,12,"Hộp hình chữ nhật đẹp hơi mềm mại. Lúc mua gần 400k hộp này, có kem pond dưỡng da ngày và đêm để làm trắng da cho minh, mới mua để xài thử xem thế nào có ổn không?",Đánh giá vào 2 năm trước Đã dùng 5 ngày,114
+114,12,"giao hàng rất nhanh, đóng gói tốt, sp dùng tốt, kem dưỡng lúc thoa rất mát da, serum chất k lỏng nên dễ thoa, dù vậy vẫn khô nhanh và thấm nhanh, 👏👏👏 máy rửa mặt dùng tốt, có sạc sẵn, 5 sao.",Đánh giá vào 2 năm trước Đã dùng 6 giờ,115
+115,12, Vẫn mùi hương truyền thống sirum thẩm thấu nhanh kem bôi không nhờn rít còn kết quả phải dùng một thời gian mới biết được được tặng kèm bông tẩy trang và máy rửa mặt nhưng không có cáp sạc hết pin chắc... Xem thêm,Đánh giá vào 1 năm trước Đã dùng 2 ngày,116
+116,12,sản phẩm tốt,Đánh giá vào 2 năm trước Đã dùng 8 giờ,117
+117,12," Mình dùng Pond's được nhiều năm rồi chất lượng khỏi bàn, kem ban đêm có kết cấu lỏng hơn ban ngày cấp ẩm tức thì đến sáng da vẫn rất mướt, ban ngày thì đặc hơn có nâng tone nhẹ rất mịn. Còn serum thì... Xem thêm",Đánh giá vào 1 năm trước Đã dùng 1 ngày,118
+118,12,"Hàng chưa sử dụng không biết chất lượng như thế nào nhưng nhìn sản phẩm đẹo bắt mắt, đóng gói cẩn thận. Nhìn rất thích.",Đánh giá vào 2 năm trước Đã dùng 3 giờ,119
+119,12,chưa xài nhưng shop giao đủ giao đúng hàng ạ. có điều ko biết cái máy rửa mặt sạc chỗ nào ạ?,Đánh giá vào 2 năm trước Đã dùng 7 giờ,120
+120,12,"Hiệu quả sau 2 ngày sử dụng thấy khả quan hơn.
+Giá vừa tầm tay mức thu nhập trung bình.",Đánh giá vào 5 tháng trước Đã dùng 3 tháng,121
+121,12,"đóng gói đẹp. giao nhanh. sản phẩm.mới dùng lần đầu chưa biết hiệu quả ra sao, nhưng mẫu mã hợp mắt",Đánh giá vào 2 năm trước Đã dùng 1 ngày,122
+122,12,Hộp quà thì ổn mà gửi về chỗ mik thì hàng như bị bóc ra vậy . Băng dính tiki now dán ngoài hộp thì bị rạch mất 1 mặt . Hộp thì hơi móp . Còn sp thì cũng gọi là oke,Đánh giá vào 2 năm trước Đã dùng 1 ngày,123
+123,12,Xai pone gan 10nam chat luong mang laj tuyet voi . hang nhan 1hop qua to đung gia lai uu dai nua . Rất thích,Đánh giá vào 2 năm trước Đã dùng 3 giờ,124
+124,12,"Giao hàng nhanh, đóng gói kỹ, được tặng thêm chai sữa tắm dove, chưa dùng sp nên chưa biết hiệu quả như thế nào",Đánh giá vào 1 năm trước Đã dùng 3 ngày,125
+125,12,"Hàng giao nhanh. Hộp rất đẹp. Serum và kem dùng rất ổn, cấp ẩm tốt và thấm khá nhanh. Máy rửa mặt hoạt động tốt. Shipper gia hàng nhanh, thân thiện",Đánh giá vào 2 năm trước Đã dùng 5 ngày,126
+126,12,hàng tốt rất hài lòng,Đánh giá vào 2 năm trước Đã dùng 1 ngày,127
+127,12,"Sp đẹp, đóng gói cẩn thận, gh nhanh. Chất lượng càn sd thêm mới biết được",Đánh giá vào 2 năm trước Đã dùng 5 giờ,128
+40,12,"Đặt hồi tối qua mà sáng nay đã giao rồi, đóng gói cẩn thận. Hàng đẹp. Nhưng mà cái máy rửa mặt ko biết cắm sạc chỗ nào😂",Đánh giá vào 2 năm trước Đã dùng 1 giờ,129
+128,13,Mua được lúc sale giá ưng ý. Mua 1 tặng 1 thiệt.. sản phẩm dùng y như mẫu dùng. Chất đặc.. k quá lỏng,Đánh giá vào 1 năm trước Đã dùng 2 tháng,130
+129,13,"Tiki giao hàng nhanh, 1 ngày đã nhận được hảng. Quà tặng kèm đầy đủ như quảng cáo. Chưa thử toner này nên chưa đánh giá được",Đánh giá vào 1 năm trước Đã dùng 10 giờ,131
+130,13,,Đánh giá vào 21 ngày trước Đã dùng 10 giờ,132
+131,13,,Đánh giá vào 1 năm trước Đã dùng 13 ngày,133
+132,13,,Đánh giá vào 1 năm trước Đã dùng 1 ngày,134
+133,14," Hàng ưng ý, date dài , nhân viên giao hàng uy tín, quà tặng mình mua hai bộ nên được hai máy rửa mặt nhưng có một máy hoạt động được,còn một máy không hoạt động được, nếu mình sạc đủ điện mà cũng không... Xem thêm","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 18 phút",135
+134,14,"Mặc dù đang dịch nhưng TIKI vẫn giao hàng nhanh chóng đặt lúc 8g sáng mà 11g50 đã nhận hàng luôn rồi. Sản phẩm chất lượng, date xa tới 2024 luôn, còn được tặng kèm máy rửa mặt nữa. Rất hài lòng.","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 11 phút",136
+135,14," Đã nhận đủ bộ sp và có quà tặng kèm 1 máy rửa mặt màu hồng xinh xắn . Do lúc trc đã sd bộ sp này rồi rất ưng chất kem và hiệu quả trắng đều màu , da cũng rất mềm mịn . nên lần này quyết định đặt mua trên... Xem thêm","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 7 giờ",137
+136,14,"Mới mua nên chưa biết sản phẩm như thế nào,nhưng hàng thì y hình còn dc tặng quà khuyến mãi rất xịn sò.","Trọng lượng: CB2 x 50g
+Đánh giá vào 1 năm trước Đã dùng 16 phút",138
+137,14,"cấp ẩm rất tốt, chống lão hoá da, bôi vào nhẹ mà thích. sp chất lượng tốt. ship hàng nhanh lẹ shop okkkkkkkkkkkkk","Trọng lượng: CB2 x 50g
+Đánh giá vào 1 năm trước Đã dùng 2 giờ",139
+138,14,Sản phẩm đóng gói ok..thơm..ạh..,"Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 1 ngày",140
+139,14,"Sp như mô tả, đc tặng 2 món quà rất ưng.","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 2 ngày",141
+140,14,"sản phẩm đúng mô tả,mua đúng đợt sale ngày 11/11 nên có kèm quà tặng và miễn ship mình rất hài lòng","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 2 ngày",142
+141,14," Dùng thấy hiệu quả, sáng da, ko bị kích ứng. tiki giao rất nhanh, 3 ngày là có rồi trong khi dự kiến 10 ngày (hình như chuyển từ sài gòn). có nhận dc quà khuyến mãi là máy ion nhưng thật sự nó để chơi... Xem thêm","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 3 ngày",143
+142,14,"sản phẩm tốt.mùi hương nhẹ nhàng
+mình đã dùng sản phẩm này cũng 4-5 năm rất là ưng luôn. shop còn tặng quà cho nữa. thích quá đi. sẽ ủng hộ shop nữa.","Trọng lượng: CB2 x 50g
+Đánh giá vào 3 năm trước Đã dùng 2 giờ",144
+143,14,"Thấy mẹ hay xài loại này nên mình mua tặng mẹ, bao bì còn mới, tuy nhiên sp bên trong hơi cũ,giao hàng nhanh, mình mua lúc Tiki seo & có nhiều quà tặng nữa","Trọng lượng: CB2 x 50g
+Đánh giá vào 1 năm trước Đã dùng 1 ngày",145
+144,14,Lần đầu trải nghiệm mua hàng trên tiki mặc dù chưa dùng số nhưng  mih rất hài lòng.cảm ơn shop. Sẽ ủng hộ dài dài,"Trọng lượng: CB2 x 50g
+Đánh giá vào 1 năm trước Đã dùng 27 phút",146
+145,14,"TIKI giao hàng nhanh, đóng gói sản phẩm tốt.
+Kem mịn, thơm, chất lượng thì sử dụng mới đánh giá được nhưng sản phẩm Ponds thì tốt rồi. Tặng kèm máy massage rửa mặt xài rất thích.
+=> ⭐️⭐️⭐️⭐️⭐️","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 4 giờ",147
+146,14,"Hàng giao nhanh, chính hãng, giá sale mạnh","Trọng lượng: CB2 x 50g
+Đánh giá vào 8 tháng trước Đã dùng 7 phút",148
+147,14,sau 3 ngày sử dụng sản phẩm thấy ok. do mùa dịch vận chuyển hơi lâu.  nếu hiệu quả sẽ ủng hộ tiếp.,"Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 4 ngày",149
+148,14,Hàng chính hãng mua ở trang nên rất an toàn. Theo sp dùng nhiều năm nên da rất hồng và sáng đẹp,"Trọng lượng: CB2 x 50g
+Đánh giá vào 10 tháng trước Đã dùng 2 ngày",150
+149,14, sp dùng thích chất kem của mẫu mới có vẻ đặc hơn phiên bản cũ .khi dùng các bước trước kem dưỡng đủ ẩm rồi dùng kem có vẻ khó tan hơn một chút .sống thấy da mịn hơn phiên bản cũ.còn tiki giao hàng nhanh... Xem thêm,"Trọng lượng: CB2 x 50g
+Đánh giá vào 3 năm trước Đã dùng 7 ngày",151
+150,14,sản phẩm có mùi thơm dễ chịu. kem ban ngày thơm hơn kem ban đêm. bắt đầu sử dụng mong đạt hiệu quả tốt.,"Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 1 ngày",152
+151,14,"Sản phẩm tốt, giá tốt vì được giảm giá từ nhà bán hàng và tiki. Có sản phẩm khuyến mãi như quảng cáo. Giao hàng nhanh chóng.","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 1 tháng",153
+152,14,"Dù đang áp dụng CT16 nhưng hàng vẫn được giao, sản phẩm lần đầu tiên mua chưa sd nên chưa cảm nhận được chất lượng sp. hy vọng hàng chính hãng chất lượng cao.","Trọng lượng: CB2 x 50g
+Đánh giá vào 2 năm trước Đã dùng 23 phút",154
+153,20," Tiki giao hàng nhanh
+Hàng được đóng gói kĩ, được tặng thêm kem chống nắng 50g cùng hãng. Bao bì đẹp, rõ ràng, chuyên nghiệp. Mới thử dùng một lần nên ko biết hiệu quả ntn, sp có chất gel trắng lỏng như... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 2 ngày,155
+154,20," Tẩy da chết này dùng bao phê luôn nha mng. Ko hề cảm giác khô da như những loại tẩy da chết hoá học, da chết bong ra nhẹ nhàng sau khi tẩy vẫn thấy da mềm mịn chứ ko khô rít hay bị căng da đâu. Đáng đồng... Xem thêm",Đánh giá vào 3 năm trước Đã dùng 5 giờ,156
+155,20," Sản phẩm có tem chính hãng, trông ổn áp còn dùng thì chưa biết như nào. Kỳ lạ là ghi sản xuất tháng 3/2020 nhưng lại ko đề hsd trên cả sản phẩm và hộp đựng - vỏ đựng sản phẩm lại đề dòng: in trên bao... Xem thêm",Đánh giá vào 2 năm trước Đã dùng 12 phút,157
+156,20,"Lần đầu mua mỹ phẩm trên Tiki. Giao hàng thần tốc, gói hàng siêu cẩn thận! Chất lượng thì tuyệt vời, sau khi dùng cảm giác da thông thoáng mà dịu nhẹ vô cùng. Sẽ tiếp tục ủng hộ shop!",Đánh giá vào 3 năm trước Đã dùng 19 phút,158
+157,20,"Đóng gói kỹ, chắc chắn! Sản phẩm dùng ổn! Dùng xong cảm thấy da mặt mềm mịn hơn! Sẽ tiếp tục ủng hộ shop!",Đánh giá vào 3 năm trước Đã dùng 11 giờ,159
+158,20," Rất ít khi đánh giá trên tiki, nhưng hôm nay thiết nghĩ cần review sp này. Sp mình được 1 ng bạn giới thiệu, do nó có tp tế bào gốc, da mình khá nhạy cảm nên thử vì nghĩ nó an toàn. Hôm đầu tiên k biết,... Xem thêm",Đánh giá vào 3 năm trước Đã dùng 5 ngày,160
+159,20," Thương hiệu khá mới trên thị trường, vừa nhận xong là thử luôn thì thấy mùi sp khá thơm kiểu mỹ phẩm đắt tiền ý, còn về chất lượng thì vì da mình khá nhạy cảm nhưng lúc sd thấy sp tẩy da dịu nhẹ kiểu... Xem thêm",Đánh giá vào 3 năm trước Đã dùng 9 giờ,161
+160,20,"Mình đã dùng thử và chất lượng rất tốt nha. Dịu nhẹ k nhờn rít, chỉ cần thoa nhẹ nhàng là lượng da chết được đẩy đi rất nhiều. Sản phẩm khá phù hợp với da nhạy cảm do chất gel mịn",Đánh giá vào 2 năm trước Đã dùng 4 giờ,162
+161,20, Mình đã dùng hết 1lọ thấy chất lượng siêu Ok. Lần này giá sale tốt hơn nữa nên phải mua ngay 2 hộp để còn tặng cho bạn dùng thử. Sản phẩm Ok lắm mọi người. Tẩy sạch tế bào chết mà lại vô cùng dịu nhẹ... Xem thêm,Đánh giá vào 1 năm trước Đã dùng 1 tháng,163
+162,20,"Giao hàng hơi lâu, mới dùng nên chua danh gia chinh xác nhưng so với dòng sản phẩm này cùng mức giá của Nhật thì có cảm giác không sạch bằng,  sản phẩm sinh học nên dùng yên tâm.",Đánh giá vào 2 năm trước Đã dùng 10 ngày,164
+163,20,"Đóng gói sản phẩm chắc chắn , chống xốc kĩ càng giao hàng nhanh. 
+Về sản phẩm thì chất lượng tốt , dùng xong thấy da rất mịn và sáng . Sản phẩm nhìn cũng khá sang và bắt mắt .",Đánh giá vào 3 năm trước Đã dùng 3 ngày,165
+164,20,"Sp đẹp, giao hàng nhanh. Em đang dùng thử sữa rửa mặt và dưỡng da của Cellkey-Scien và cực hài lòng nên săn thêm tẩy da chết giá cực ""iu thương"" được tặng kèm cả tuýp chống nắng nữa ạ 😉",Đánh giá vào 2 năm trước Đã dùng 2 giờ,166
+165,20,"Chưa lần nào đặt hàng tiki giao nhanh vậy luôn. Sáng t2 đặt sáng t3 đã nhận rồi. Sp này mình đang dùng thấy rất hợp. Nchung lần này mua trên tiki đc rẻ hơn, giao hàng nhanh rất hài lòng",Đánh giá vào 3 năm trước Đã dùng 3 giờ,167
+166,20,Mới nhận hàng mình dùng thử luôn tạm ổn hi vọng sẽ tốt để mình còn ủng hộ shop tiếp,Đánh giá vào 2 năm trước,168
+167,20,Xai thich,Đánh giá vào 3 năm trước Đã dùng 3 ngày,169
+168,20," Dùng tẩy tbc này lành, lúc tẩy ra cái đám ghét màu trắng, rửa bằng nước sẽ trôi đi luôn. Mình đã từng dùng loại Cure của Nhật, đám ghét đó không trôi đi dễ dàng thế, nó cuộn vào đám lông măng trên mặt... Xem thêm",Đánh giá vào 3 năm trước Đã dùng 1 ngày,170
+169,20,"Hàng giao nhanh , sản phẩm có mùi thơm nhẹ rất dễ chịu , còn sp có tốt k thì phải sử dụng lâu mới bit đc",Đánh giá vào 3 năm trước Đã dùng 1 ngày,171
+170,20,Dùng tẩy sạch  da kobi khô dùng rat tốtrất thích,Đánh giá vào 3 tháng trước Đã dùng 11 ngày,172
+171,20,"Hàng nhận được nhìn xịn xò quá. Mua 2 sản phẩm được tặng 2 kem chống nắng, ưng quá. Sữa rửa mặt thích, không bị khô da sau khi rửa xong.",Đánh giá vào 2 năm trước Đã dùng 7 giờ,173
+172,20,Hàng chất lượng. Tiền nào của đó. Chủ dhop nhiệt tình ạ,Đánh giá vào 2 năm trước Đã dùng 29 phút,174
+173,21,Hàng đúng như hình! Và mẫu mã chuẩn đẹp!!!,Đánh giá vào 4 tháng trước Đã dùng 1 giờ,175
+174,21,Dùng tốt lắm nha. Có quà tặng và giá lại tốt nữa => nên mua.,Đánh giá vào 1 năm trước Đã dùng 1 giờ,176
+175,21,"Nước hoa hồng hạp da dầu và nhạy cảm như mình. Mua dịp sale 1 tặng 1, cộng thêm set quà tặng, nên mua!",Đánh giá vào 1 năm trước Đã dùng 8 ngày,177
+176,21,Giao hàng nhanh,Đánh giá vào 1 năm trước Đã dùng 5 giờ,178
+177,21,,Đánh giá vào 5 tháng trước Đã dùng 12 ngày,179
+178,21,,Đánh giá vào 1 năm trước Đã dùng 3 giờ,180
+179,21,,Đánh giá vào 1 năm trước Đã dùng 3 tháng,181
+180,21,,Đánh giá vào 1 năm trước Đã dùng 1 tháng,182
+181,21,,Đánh giá vào 1 năm trước Đã dùng 2 tháng,183
+182,21,,Đánh giá vào 2 năm trước Đã dùng 1 tháng,184
+178,21,,Đánh giá vào 1 năm trước Đã dùng 3 giờ,185
+179,21,,Đánh giá vào 1 năm trước Đã dùng 3 tháng,186
+180,21,,Đánh giá vào 1 năm trước Đã dùng 1 tháng,187
+181,21,,Đánh giá vào 1 năm trước Đã dùng 2 tháng,188
+182,21,,Đánh giá vào 2 năm trước Đã dùng 1 tháng,189
+178,21,,Đánh giá vào 1 năm trước Đã dùng 3 giờ,190
+179,21,,Đánh giá vào 1 năm trước Đã dùng 3 tháng,191
+180,21,,Đánh giá vào 1 năm trước Đã dùng 1 tháng,192
+181,21,,Đánh giá vào 1 năm trước Đã dùng 2 tháng,193
+182,21,,Đánh giá vào 2 năm trước Đã dùng 1 tháng,194
+183,22,"Giao hàng siêu nhanh, đủ quà tặng, chưa sử dụng nên chưa đánh giá được hiệu quả.",Đánh giá vào 1 năm trước Đã dùng 20 phút,195
+184,22,Dùng ok. Đồ tặng kèm đầy đủ,Đánh giá vào 1 năm trước Đã dùng 3 giờ,196
+185,22,Ưng lắm.mình dùng nhiều năm rồi.hợp lắm luôn,Đánh giá vào 1 năm trước Đã dùng 1 tháng,197
+186,22,,Đánh giá vào 7 tháng trước Đã dùng 4 tháng,198
+187,22,,Đánh giá vào 1 năm trước Đã dùng 24 phút,199
+188,23,,Đánh giá vào 3 tháng trước Đã dùng 1 ngày,200
+189,24,Rất hài lòng.,Đánh giá vào 7 tháng trước Đã dùng 8 ngày,201

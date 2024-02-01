@@ -1,0 +1,190 @@
+Customer_ID,name,num_review,num_thanks,date_attend
+1,Phạm Thị Hoàng Yến,Đã viết 12 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 6 năm
+2,Phan Văn Hoàng,Đã viết 1 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 5 năm
+3,Hạt Đậu Thần Kỳ,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+4,Vi Ngôn LụC NgạN,Đã viết 11 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 7 năm
+5,Đặng Đình Chiểu,Đã viết 30 Đánh giá,Đã nhận 8 Lượt cảm ơn,Đã tham gia 7 năm
+6,Nguyễn Kiệt,Đã viết 32 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 3 năm
+7,Nguyễn Xuân Mai,Đã viết 4 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 3 năm
+8,Nguyễn Thị Việt Trinh,Đã viết 61 Đánh giá,Đã nhận 10 Lượt cảm ơn,Đã tham gia 5 năm
+9,Nguyễn Thương,Đã viết 96 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 4 năm
+10,Kim Anh,Đã viết 6 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+11,Thuỳ Ngôn,Đã viết 10 Đánh giá,Đã nhận 16 Lượt cảm ơn,Đã tham gia 8 năm
+12,Ngọc Nữ,Đã viết 9 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+13,Phạm Văn Tân,Đã viết 1 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 2 năm
+14,Lê Tấn Đạt,Đã viết 100 Đánh giá,Đã nhận 13 Lượt cảm ơn,Đã tham gia 4 năm
+15,Hoài Ninh,Đã viết 2 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 2 năm
+16,Hong Anh Gooner,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+17,Đức Ngô,Đã viết 19 Đánh giá,Đã nhận 22 Lượt cảm ơn,Đã tham gia 7 năm
+18,Nguyễn Minh Mai,Đã viết 51 Đánh giá,Đã nhận 7 Lượt cảm ơn,Đã tham gia 3 năm
+19,Mạc Mạc,Đã viết 3 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+20,Phạm Quỳnh,Đã viết 16 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+21,TRỊNH THỊ MỘNG LƯỢNG,Đã viết 32 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 5 năm
+22,Mai Khuong,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 13 ngày
+23,Nguyễn Trâm,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+24,My Pham,Đã viết 320 Đánh giá,Đã nhận 9 Lượt cảm ơn,Đã tham gia 6 năm
+25,Anna Chan,Đã viết 63 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 3 năm
+26,Hồng Ruby,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+27,Lưu Minh Hiếu,Đã viết 6 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+28,Hong VAn,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+29,Thy Lê,Đã viết 12 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 6 năm
+30,Lê Anh,Đã viết 6 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 3 năm
+31,Mỹ Hạ,Đã viết 1 Đánh giá,Đã nhận 5 Lượt cảm ơn,Đã tham gia 2 năm
+32,An Binh,Đã viết 13 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 4 năm
+33,Ngọc Hân,Đã viết 3 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 3 năm
+34,Anh Quỳnh,Đã viết 13 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+35,Annn Naaa,Đã viết 60 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 12 năm
+36,Mai Tuấn Annh,Đã viết 26 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 5 năm
+37,Nguyen Huynh Que Huong,Đã viết 47 Đánh giá,Đã nhận 25 Lượt cảm ơn,Đã tham gia 6 năm
+38,Trương Thị Sáng,Đã viết 12 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+39,Cherry Nguyen,Đã viết 38 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 3 năm
+40,Đặng Tấn Đạt,Đã viết 16 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 3 năm
+41,Ngưng Lê Sam Tử,Đã viết 143 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 3 năm
+42,Nguyễn Hoàng Thái,Đã viết 25 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+43,Giang Huyền,Đã viết 40 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 5 năm
+44,Doan Cao,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+45,Tran Thi Phuong,Đã viết 60 Đánh giá,Đã nhận 8 Lượt cảm ơn,Đã tham gia 13 năm
+46,Huy Pham,Đã viết 11 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 8 năm
+47,Luong Nga,Đã viết 89 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 10 năm
+48,Lê Thị Tú Hảo,Đã viết 37 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 7 năm
+49,Nguyễn Hồng Tiếm,Đã viết 4 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+50,Quân Lâm,Đã viết 18 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 9 năm
+51,Thúy Quỳnh,Đã viết 17 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 7 năm
+52,Tran Thi Thanh Dung,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+53,Khanh Ly,Đã viết 75 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 5 năm
+54,Lê Kiều Oanh,Đã viết 13 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+55,Huỳnh Hà Hoàng Yến,Đã viết 72 Đánh giá,Đã nhận 57 Lượt cảm ơn,Đã tham gia 3 năm
+56,Trang Trần,Đã viết 7 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 8 năm
+57,Phạm Oanh,Đã viết 1 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 6 năm
+58,Ngọc Anh Phan,Đã viết 14 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 7 năm
+59,Tiểu Yêu Quái,Đã viết 21 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 10 năm
+60,Nguyễn Thị Tâm,Đã viết 528 Đánh giá,Đã nhận 48 Lượt cảm ơn,Đã tham gia 6 năm
+61,Mai Suong,Đã viết 8 Đánh giá,Đã nhận 5 Lượt cảm ơn,Đã tham gia 8 năm
+62,Định Tâm,Đã viết 11 Đánh giá,Đã nhận 12 Lượt cảm ơn,Đã tham gia 8 năm
+63,Trần Thị Ngọc Anh,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+64,Đỗ Phương,Đã viết 78 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 10 năm
+65,Thuỳ Stella,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+66,Nguyn Nh Mai,Đã viết 32 Đánh giá,Đã nhận 32 Lượt cảm ơn,Đã tham gia 4 năm
+67,Nguyễn Hoài Vương,Đã viết 56 Đánh giá,Đã nhận 9 Lượt cảm ơn,Đã tham gia 7 năm
+68,Nguyễn Trang,Đã viết 12 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+69,Bui Ca,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+70,Trần Nguyễn Ngọc Phúc,Đã viết 4 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 5 năm
+71,Trịnh Hồng Quân,Đã viết 24 Đánh giá,Đã nhận 11 Lượt cảm ơn,Đã tham gia 3 năm
+72,Tran Thanh Truc,Đã viết 30 Đánh giá,Đã nhận 23 Lượt cảm ơn,Đã tham gia 9 năm
+73,Đinh Ngoc,Đã viết 6 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 5 năm
+74,Đỗ Ánh,Đã viết 3 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 1 năm
+75,Thành Hưng,Đã viết 3 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+76,Lương Ngọc Bích,Đã viết 21 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 8 năm
+77,Duy Khánh,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+78,Giao Tran,Đã viết 320 Đánh giá,Đã nhận 9 Lượt cảm ơn,Đã tham gia 6 năm
+79,Trần Kiều Trang,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+80,Linh Khánh,Đã viết 3 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 5 năm
+81,Trần MaiAnh,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+82,Trần Thị Thu Trâm,Đã viết 4 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 3 năm
+83,Nguyễn Hữu Tuấn,Đã viết 65 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 6 năm
+84,Cao Gia Huy,Đã viết 10 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+85,Lê Thư,Đã viết 11 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+86,Kim Quang,Đã viết 8 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+87,Đặng Thảo,Đã viết 25 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 3 năm
+88,Lan Hương,Đã viết 28 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 6 năm
+89,Mạnh Dũng,Đã viết 71 Đánh giá,Đã nhận 5 Lượt cảm ơn,Đã tham gia 7 năm
+90,Hoàng Diệu Yến,Đã viết 5 Đánh giá,Đã nhận 22 Lượt cảm ơn,Đã tham gia 3 năm
+91,Hân Đoàn,Đã viết 53 Đánh giá,Đã nhận 17 Lượt cảm ơn,Đã tham gia 7 năm
+92,Mai Loan,Đã viết 49 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+93,Bùi Thảo Vy,Đã viết 10 Đánh giá,Đã nhận 5 Lượt cảm ơn,Đã tham gia 7 năm
+94,Huyền Võ Ngọc,Đã viết 78 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 2 năm
+95,Lê Vy,Đã viết 359 Đánh giá,Đã nhận 162 Lượt cảm ơn,Đã tham gia 12 năm
+96,Đỗ Chanh,Đã viết 4 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+97,Hàn Quốc,Đã viết 78 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 5 năm
+98,My Khanh,Đã viết 19 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 5 năm
+99,Vũ Thảo Oanh,Đã viết 20 Đánh giá,Đã nhận 42 Lượt cảm ơn,Đã tham gia 6 năm
+100,Hồng Nhung,Đã viết 4 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 4 năm
+101,Hà Hoài,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 1 tháng
+102,Lu Thanh Tm,Đã viết 5 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 4 năm
+103,Trân Phạm,Đã viết 17 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+104,Hội Nguyễn,Đã viết 302 Đánh giá,Đã nhận 7 Lượt cảm ơn,Đã tham gia 3 năm
+105,Nguyễn Văn Liềm,Đã viết 7 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 6 năm
+106,Minh Tâm Trần Lê,Đã viết 7 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 6 năm
+107,Sam Sam Đến Rui,Đã viết 4 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+108,Nguyễn Thị Thùy Dương,Đã viết 65 Đánh giá,Đã nhận 54 Lượt cảm ơn,Đã tham gia 7 năm
+109,Japanit Matcha,Đã viết 1212 Đánh giá,Đã nhận 251 Lượt cảm ơn,Đã tham gia 6 năm
+110,Nguyễn Xuân Hùng,Đã viết 2 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 5 năm
+111,Nguyễn Thị Ngọc Dung,Đã viết 86 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 5 năm
+112,Bá Tâm,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+113,Nguyễn Thị Minh Trang,Đã viết 8 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 8 năm
+114,Nguyễn Ngọc Anh Thư,Đã viết 10 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 4 năm
+115,Trịnh Thị Loan,Đã viết 24 Đánh giá,Đã nhận 7 Lượt cảm ơn,Đã tham gia 4 năm
+116,Lê Công Nho,Đã viết 26 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 8 năm
+117,Linda Mlo,Đã viết 17 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+118,T Ng,Đã viết 9 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 4 năm
+119,Duong Thanh Trunh,Đã viết 17 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 5 năm
+120,HOANG CAO THOAI,Đã viết 258 Đánh giá,Đã nhận 12 Lượt cảm ơn,Đã tham gia 4 năm
+121,Nguyen Thi Hong Nga,Đã viết 36 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 11 năm
+122,Đỗ Thị Khanh,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+123,Tuyet Huynh,Đã viết 34 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 6 năm
+124,Võ Thị Thanh Nữ,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+125,Tường Vi,Đã viết 17 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+126,Đoan Nguyễn,Đã viết 68 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+127,Long Thị Hiền,Đã viết 5 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+128,Bông Cúc,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 9 năm
+129,Văn Thảo,Đã viết 100 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 5 năm
+130,Võ Diệu Linh,Đã viết 97 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 11 năm
+131,Lê Thị Tú Nhi,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+132,Trâm Đỗ,Đã viết 37 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 5 năm
+133,Tran Thị Tuệ,Đã viết 93 Đánh giá,Đã nhận 16 Lượt cảm ơn,Đã tham gia 5 năm
+134,Nhái Ú,Đã viết 303 Đánh giá,Đã nhận 18 Lượt cảm ơn,Đã tham gia 5 năm
+135,H U Y E N,Đã viết 30 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 5 năm
+136,Dương Thị Thu Hồng,Đã viết 7 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 1 năm
+137,Lê Phương Nga,Đã viết 7 Đánh giá,Đã nhận 8 Lượt cảm ơn,Đã tham gia 6 năm
+138,Bạn Loan,Đã viết 189 Đánh giá,Đã nhận 79 Lượt cảm ơn,Đã tham gia 6 năm
+139,Võ Thị Ngọc Bích,Đã viết 333 Đánh giá,Đã nhận 31 Lượt cảm ơn,Đã tham gia 5 năm
+140,Nguyễn Huỳnh Uyên Thôn An Hải Đông,Đã viết 58 Đánh giá,Đã nhận 55 Lượt cảm ơn,Đã tham gia 5 năm
+141,Thanh Phuong,Đã viết 2 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 7 năm
+142,Vi Giang,Đã viết 1 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 3 năm
+143,Lê Huyền,Đã viết 11 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 8 năm
+144,Nguyễn Hiền,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+145,Trần Phương Thảo,Đã viết 130 Đánh giá,Đã nhận 7 Lượt cảm ơn,Đã tham gia 5 năm
+146,Huyền Linh,Đã viết 205 Đánh giá,Đã nhận 5 Lượt cảm ơn,Đã tham gia 4 năm
+147,Minh Thu,Đã viết 16 Đánh giá,Đã nhận 15 Lượt cảm ơn,Đã tham gia 5 năm
+148,Thuỳ Dương,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 1 năm
+149,Nguyễn Hữu Ninh,Đã viết 9 Đánh giá,Đã nhận 8 Lượt cảm ơn,Đã tham gia 4 năm
+150,Le Thuy,Đã viết 3 Đánh giá,Đã nhận 6 Lượt cảm ơn,Đã tham gia 3 năm
+151,Nguyễn Thị Ánh Tươi,Đã viết 93 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 9 năm
+152,Trần Thị Ngọc Dung,Đã viết 4 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 5 năm
+153,Vân Hảo Hồ,Đã viết 20 Đánh giá,Đã nhận 8 Lượt cảm ơn,Đã tham gia 5 năm
+154,Nguyễn Ngân Hà,Đã viết 71 Đánh giá,Đã nhận 26 Lượt cảm ơn,Đã tham gia 8 năm
+155,Lê Thu Hà,Đã viết 18 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 8 năm
+156,Phú Trần Công,Đã viết 40 Đánh giá,Đã nhận 15 Lượt cảm ơn,Đã tham gia 4 năm
+157,Nguyễn Ngọc Anh Thư,Đã viết 19 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 7 năm
+158,Hà Vũ Vũ,Đã viết 3 Đánh giá,Đã nhận 7 Lượt cảm ơn,Đã tham gia 4 năm
+159,Đặng Ngọc,Đã viết 28 Đánh giá,Đã nhận 5 Lượt cảm ơn,Đã tham gia 4 năm
+160,Quynh Ho,Đã viết 4 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 2 năm
+161,Thiên Ý,Đã viết 45 Đánh giá,Đã nhận 39 Lượt cảm ơn,Đã tham gia 5 năm
+162,Thiên Bình,Đã viết 180 Đánh giá,Đã nhận 49 Lượt cảm ơn,Đã tham gia 3 năm
+163,Vuong MP Doan Van,Đã viết 64 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 5 năm
+164,Nguyễn Phương Liên,Đã viết 19 Đánh giá,Đã nhận 26 Lượt cảm ơn,Đã tham gia 6 năm
+165,Simba Trang,Đã viết 30 Đánh giá,Đã nhận 33 Lượt cảm ơn,Đã tham gia 5 năm
+166,Lam Trương,Đã viết 150 Đánh giá,Đã nhận 20 Lượt cảm ơn,Đã tham gia 4 năm
+167,Thanh Giang,Đã viết 6 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+168,Pham Van Anh,Đã viết 277 Đánh giá,Đã nhận 73 Lượt cảm ơn,Đã tham gia 5 năm
+169,Anhs Lunss,Đã viết 25 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 5 năm
+170,Nguyễn Hồng Viên,Đã viết 8 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+171,Tuyet Lan,Đã viết 27 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 5 năm
+172,Kent Nguyễn,Đã viết 10 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+173,Bùi Đình Huấn,Đã viết 30 Đánh giá,Đã nhận 1 Lượt cảm ơn,Đã tham gia 5 năm
+174,X Vinh,Đã viết 47 Đánh giá,Đã nhận 5 Lượt cảm ơn,Đã tham gia 5 năm
+175,Nguyen Tram,Đã viết 118 Đánh giá,Đã nhận 19 Lượt cảm ơn,Đã tham gia 5 năm
+176,Văn Hậu,Đã viết 8 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+177,Phạm Gia Trí,Đã viết 1 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 12 năm
+178,Kit Kat,Đã viết 267 Đánh giá,Đã nhận 24 Lượt cảm ơn,Đã tham gia 6 năm
+179,Sơn Nguyễn,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+180,Trà Nguyễn,Đã viết 18 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 3 năm
+181,TRẦN THỊ ÁNH NGUYỆT,Đã viết 30 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 6 năm
+182,Vũ Hoàng Thiên,Đã viết 46 Đánh giá,Đã nhận 35 Lượt cảm ơn,Đã tham gia 8 năm
+183,Mai Thơ,Đã viết 2 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 5 năm
+184,Phạm Thảo,Đã viết 18 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 10 năm
+185,Thu Hoài,Đã viết 31 Đánh giá,Đã nhận 2 Lượt cảm ơn,Đã tham gia 8 năm
+186,Trinh Nguyen,Đã viết 3 Đánh giá,Đã nhận 0 Lượt cảm ơn,Đã tham gia 6 năm
+187,Trinh Pham,Đã viết 48 Đánh giá,Đã nhận 5 Lượt cảm ơn,Đã tham gia 11 năm
+188,Tài Khoản Zalo,Đã viết 91 Đánh giá,Đã nhận 3 Lượt cảm ơn,Đã tham gia 4 năm
+189,Mai Dung,Đã viết 34 Đánh giá,Đã nhận 4 Lượt cảm ơn,Đã tham gia 5 năm
